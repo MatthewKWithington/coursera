@@ -33,16 +33,16 @@ section>h2 {
 }
 
 section.beef>h2 {
-    background-color: #76b8db;
+    background-color: #d32744;
 }
 
 section.salad>h2 {
-    background-color: #4f7acd;
+    background-color: #4f9fcd;
 }
 
 section.flatbread>h2 {
     color: #e2e2e2;
-    background-color: #10328a;
+    background-color: #5d108a;
 }
 
 section>p {
